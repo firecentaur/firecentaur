@@ -12,7 +12,9 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 
 📫 How to reach me:
 
-`Website` - [b3dmultitech.com](https://b3dmultitech.com)
+⚡ `Website` - [b3dmultitech.com](https://b3dmultitech.com)
+
+💬 Portfolio [firecentaur.github.io](https://firecentaur.github.io/)
 
 ❤️ Support my open source projects:
 
