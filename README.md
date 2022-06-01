@@ -28,4 +28,9 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Laravel Website with out of the box authentication system](https://b3dmultitech.com/creating-a-laravel-website-with-out-of-the-box-authentication-system/)
+- [Metaverse Gaming scripts](https://b3dmultitech.com/metaverse-gaming-scripts/)
+- [Kiteboarding – a healthy addiction](https://b3dmultitech.com/a-healthy-addiction/)
+- [Data Encryption on Valentines Day &amp; what not to do](https://b3dmultitech.com/easily-encrypt-your-messages/)
+- [Canadian Salsa party in Daegu, South Korea](https://b3dmultitech.com/salsa-in-squamish-at-the-top-of-a-mountain/)
 <!-- BLOG-POST-LIST:END -->
