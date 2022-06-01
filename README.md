@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=firecentaur&show_icons=true alt=Firecentaur />
 </p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
