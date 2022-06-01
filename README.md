@@ -4,7 +4,7 @@
 <a href="https://b3dmultitech.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
 </p>
 
-Hi! I am paul Preibisch. I am a diligent software engineer and project manager with 10+ years experience producing production level code for educational software startups. My platform of choice is Laravel. I am conscientious in writing good, clean and readable code. I constantly review and embrace best practices in coding to avoid problems down the road. I am also experienced with code reviews, quality control, and working with other developers in team environments.
+Hi! I am Paul Preibisch. I am a diligent software engineer and project manager with 10+ years experience producing production level code for educational software startups. My platform of choice is Laravel. I am conscientious in writing good, clean and readable code. I constantly review and embrace best practices in coding to avoid problems down the road. I am also experienced with code reviews, quality control, and working with other developers in team environments.
 
 👯 I’m looking to collaborate on Laravel projects.
 
