@@ -9,6 +9,7 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 👯 I’m looking to collaborate on Laravel projects.
 
 🤔 I’m looking for work as a project manager or Laravel developer
+
 📫 How to reach me:
 
 `Website` - [b3dmultitech.com](https://b3dmultitech.com)
