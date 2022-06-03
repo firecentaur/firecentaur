@@ -28,9 +28,9 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Schema Dump Speeds up Tests!](https://dev.to/firecentaur/schema-dump-speeds-up-tests-1635)
 - [Creating a Laravel Website with out of the box authentication system](https://dev.to/firecentaur/creating-a-laravel-website-with-out-of-the-box-authentication-system-jl3)
 - [Metaverse Gaming scripts](https://dev.to/firecentaur/metaverse-gaming-scripts-346m)
 - [Useful PDF Tools](https://dev.to/firecentaur/useful-pdf-tools-36da)
 - [Throwback – Virtual World Education: Puzzle Fun](https://dev.to/firecentaur/throwback-virtual-world-education-puzzle-fun-35jd)
-- [Creating a Subtitle Search Engine using the Stanford Parts of Speech Tagger](https://dev.to/firecentaur/creating-a-subtitle-search-engine-using-the-stanford-parts-of-speech-tagger-5928)
 <!-- BLOG-POST-LIST:END -->
