@@ -28,9 +28,9 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel and the MetaVerse](https://dev.to/firecentaur/laravel-and-the-metaverse-kid)
 - [Screen Capture tool for Linux and Windows](https://dev.to/firecentaur/screen-capture-tool-for-linux-and-windows-5mk)
 - [Speeds up Your Tests!](https://dev.to/firecentaur/schema-dump-speeds-up-tests-1635)
 - [Creating a Laravel Website with out of the box authentication system](https://dev.to/firecentaur/creating-a-laravel-website-with-out-of-the-box-authentication-system-jl3)
 - [Metaverse Gaming scripts](https://dev.to/firecentaur/metaverse-gaming-scripts-346m)
-- [Useful PDF Tools](https://dev.to/firecentaur/useful-pdf-tools-36da)
 <!-- BLOG-POST-LIST:END -->
