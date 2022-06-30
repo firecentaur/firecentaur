@@ -15,7 +15,7 @@ Hi! I am Paul Preibisch. I am a diligent software engineer and project manager w
 ⚡ `Website` - [b3dmultitech.com](https://b3dmultitech.com)
 
 💬 Portfolio [firecentaur.github.io](https://firecentaur.github.io/)
-
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4596?logoColor=white%26project=%26recentMS=0%26showProject=false)
 ❤️ Support my open source projects:
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/donate/?hosted_button_id=TXCCMYFYVREJJ)
