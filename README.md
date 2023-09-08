@@ -5,7 +5,7 @@
 </p>
 
 Hi! I am Paul Preibisch. 
-I have another github account at (github.com/paulpreibisch)[github.com/paulpreibisch]
+I have another github account at [github.com/paulpreibisch](github.com/paulpreibisch)
 I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
 I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third party procurement software called "CurrentSCM".
 I take part daily in Team SCRUMS via Microsoft teams, part-take in code reviews, and development discussions.
