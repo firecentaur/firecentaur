@@ -5,16 +5,19 @@
 </p>
 
 Hi! I am Paul Preibisch. 
+
+<h1><a href="https://github.com/paulpreibisch" target="_blank">PLEASE VIEW https://github.com/paulpreibisch for my new Github account</a></h1>
+
 I have another github account at [github.com/paulpreibisch](github.com/paulpreibisch)
-I am a software engineer with 10 years experience producing production level code for educational software startups. My platform of choice is Laravel.
-I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third party procurement software called "CurrentSCM".
-I take part daily in Team SCRUMS via Microsoft teams, part-take in code reviews, and development discussions.
+I am a software engineer with 10 years of experience producing production-level code for educational software startups. My platform of choice is Laravel.
+I am currently employed as a Backend Programmer at Vistas Projects Limited, and work on their third-party procurement software called "CurrentSCM".
+I take part daily in Team SCRUMS via Microsoft Teams, part-take in code reviews, and development discussions.
 Current SCM is an enterprise application built on top of the popular PHP Framework: Laravel.
 
 I have become proficient in providing Vista Projects with:
 
 - Maintaining their Workflow Engine, which governs when Bids/Offers/Orders etc. change state.
-- Created PDF authoring microservice to merge multiple user provided documents into a single document with dynamic document indexes
+- Created PDF authoring microservice to merge multiple user-provided documents into a single document with dynamic document indexes
 - Creating validations pipelines to implement Team/Project business rules
 - Generate Excel import/export templates using Laravel Excel to provide customers an easy way to map data into CurrentSCM
 - Optimized Test Driven Design using in-memory objects to save database cycles
